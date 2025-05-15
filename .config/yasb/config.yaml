@@ -73,9 +73,10 @@ widgets:
       callbacks:
         on_right: "exec cmd.exe /c start ms-settings:sound"
   clock:
+    format: "12"
     type: "yasb.clock.ClockWidget"
     options:
-      label: "{  %d %B %A     %H:%M }"
+      label: "{  %d %B %A     %I:%M:%S }"
       locale: "en"
       calendar:
         border_color: "#fdb9c6"
