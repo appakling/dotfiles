@@ -1,7 +1,7 @@
 **WM**: GlazeWM \
 **Bar**: YASB \
 **System Information Tool**: Fastfetch \
-**Terminal**: Windows Terminal (with Catppuccin Mocha theme) \
+**Terminal**: Windows Terminal (with Catppuccin Mocha theme [recently added: oh-my-posh (catppuccin)]) \
 **Font**: 0xProto Nerd Font \
 **Package Manager**: scoop \
 **Text Editor**: Micro 
